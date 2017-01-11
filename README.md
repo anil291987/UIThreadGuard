@@ -4,6 +4,7 @@ UIThreadGuard is helps to check if you make any UI changes not in main thread. Y
 - [x] Zero touch implementation
 - [x] Throw an assertion if call any layout update is called for instantiation of any UIView
 - [x] Get the location of assertion by examine call stack symbols.
+
 ## Requirements
 
 - iOS 4.0 or later
