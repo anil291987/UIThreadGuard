@@ -10,6 +10,5 @@ UIThreadGuard is helps to check if you make any UI changes not in main thread. Y
 - iOS 4.0 or later
 - Objective C
 
-### License
-
+## License
 UIThreadGuard is released under the MIT license. See LICENSE for details.
